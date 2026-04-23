@@ -1,7 +1,7 @@
 # Hotel Como - Taller de Programación Web
 
 ## Descripción
-Este proyecto consiste en el desarrollo de un sitio web responsivo para el **Hotel Como**. El sitio ha sido construido utilizando HTML5, CSS3 y el framework Bootstrap, aplicando buenas prácticas de estructura y diseño para cumplir con los requisitos del Taller de Programación Web de la Universidad de Talca.
+Este proyecto consiste en el desarrollo de un sitio web responsivo para el **Hotel Como**.
 
 ## Estructura de Carpetas
 Para que el sitio se visualice correctamente se mantiene el siguiente orden de archivos:
